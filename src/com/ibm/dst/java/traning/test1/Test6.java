@@ -6,7 +6,7 @@ public class Test6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// 6. 根据用户输入，输出“偶数”或者“奇数”
+		// 6. 根据用户输入，输出“偶数”或者“奇数” 
 		while(true) {
 			Scanner scanner = new Scanner(System.in);
 			System.out.println("please enter a number or enter 'quit' to exit");
